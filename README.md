@@ -1,0 +1,1 @@
+this is a configuration file for leiningen profiles and plugins
